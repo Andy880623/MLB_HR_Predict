@@ -1,0 +1,18 @@
+{
+  "raw_shape": [
+    4502,
+    36
+  ],
+  "cleaned_shape": [
+    4027,
+    36
+  ],
+  "model_shape": [
+    2911,
+    41
+  ],
+  "year_min": 2015,
+  "year_max": 2024,
+  "num_players": 1116,
+  "target_description": "HR_next_season is each player's HR in the following season."
+}

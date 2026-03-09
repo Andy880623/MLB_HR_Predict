@@ -1,0 +1,10 @@
+Model,MAE,RMSE,R2
+Stacking Ensemble,6.0165,7.7876,0.4051
+Random Forest (GridSearch),6.0853,7.822,0.3998
+XGBoost (GridSearch),5.9997,7.8295,0.3987
+HistGradientBoosting (RandomSearch),5.9555,7.8555,0.3947
+Extra Trees (RandomSearch),6.1148,7.8771,0.3913
+Elastic Net (GridSearch),6.1687,8.0232,0.3685
+MLP Regressor,6.3211,8.1523,0.348
+Linear Regression,7.0813,9.4477,0.1244
+Decision Tree (GridSearch),7.1095,9.5335,0.1084

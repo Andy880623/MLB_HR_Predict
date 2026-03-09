@@ -1,0 +1,1 @@
+SHAP analysis skipped because shap is not installed. Install dependencies from requirements.txt and rerun training.

@@ -1,0 +1,7 @@
+{
+  "rows_before": 4502,
+  "rows_after_drop_2tm": 4105,
+  "rows_after_player_year_dedup": 4027,
+  "dropped_2tm_rows": 397,
+  "dropped_duplicate_player_year_rows": 78
+}

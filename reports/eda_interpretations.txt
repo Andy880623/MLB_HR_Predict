@@ -1,0 +1,5 @@
+Target distribution is right-skewed, with many low-HR seasons and fewer power outliers.
+Higher plate appearances generally align with higher next-season HR potential.
+Prime-age bins tend to show stronger HR distributions than the oldest bin.
+Yearly HR and OPS move together, indicating offensive environment effects.
+Correlation heatmap highlights strong collinearity among rate and counting stats.
