@@ -5,8 +5,7 @@ __pycache__/
 .DS_Store
 .venv/
 venv/
-models/*.joblib
-models/*.pkl
-reports/figures/*.png
-reports/shap_artifacts/*.png
+tmp/
+data/raw/smoke_sample.csv
+models/stacking_ensemble.joblib
 data/processed/*.csv
